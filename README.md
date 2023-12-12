@@ -46,7 +46,7 @@
   <img width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-yugi&langs_count=9&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<h2>My Repositories</h2>
+<h2>My Latest Work</h2>
 <div align="center">
 <a href="https://github.com/m-yugi/student-management"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=m-yugi&theme=nightowl&repo=student-management" alt="github-readme-streak-stats"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/m-yugi/currency_convorter"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=m-yugi&theme=nightowl&repo=currency_convorter" alt="github-readme-streak-stats"/><br><br>
