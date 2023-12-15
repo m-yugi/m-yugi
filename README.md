@@ -51,7 +51,5 @@
 <a href="https://github.com/m-yugi/student-management"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=m-yugi&theme=nightowl&repo=student-management" alt="github-readme-streak-stats"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/m-yugi/currency_convorter"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=m-yugi&theme=nightowl&repo=currency_convorter" alt="github-readme-streak-stats"/><br><br>
 <a href="https://github.com/m-yugi/practice_gaming_website"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=m-yugi&theme=nightowl&repo=practice_gaming_website" alt="github-readme-streak-stats"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/m-yugi/quiz_app.git"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=m-yugi&theme=nightowl&repo=quiz_app" alt="github-readme-streak-stats"/><br><br>
-<a href="https://github.com/m-yugi/Friendship-Calculator-.git"><img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=m-yugi&theme=nightowl&repo=Friendship-Calculator-" alt="github-readme-streak-stats"/>
 
 </div>
