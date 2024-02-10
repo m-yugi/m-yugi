@@ -12,7 +12,7 @@
 
  🔭 I’m currently working on **Web Development**
  
- 🌱 I’m currently learning **Reactjs**
+ 🌱 I’m currently learning **Nodejs**
 
  💞️ I’m looking to collaborate on **Web Development, Problem Solving**
 
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,spring,hibernate,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,spring,hibernate,mongodb,mysql" /><br>
         <img src="https://skillicons.dev/icons?i=vscode,github,git,eclipse,idea,postman" /><br>
 </div>
 
