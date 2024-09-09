@@ -12,7 +12,7 @@
 
  🔭 I’m currently working on **Web Development**
  
- 🌱 I’m currently learning **Nodejs**
+ 🌱 I’m currently learning **Docker**
 
  💞️ I’m looking to collaborate on **Web Development, Problem Solving**
 
