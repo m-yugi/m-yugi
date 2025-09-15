@@ -33,8 +33,8 @@
 <h2>Languages and Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,spring,hibernate,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,spring,springboot,hibernate,mongodb,mysql" /><br>
         <img src="https://skillicons.dev/icons?i=vscode,github,git,eclipse,idea,postman,intellij" /><br>
 </div>
 
