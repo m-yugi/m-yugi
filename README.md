@@ -12,7 +12,7 @@
 
  🔭 I’m currently working on **Web Development**
  
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning **devOps**
 
  💞️ I’m looking to collaborate on **Web Development, Problem Solving**
 
@@ -35,7 +35,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,spring,hibernate,mongodb,mysql" /><br>
-        <img src="https://skillicons.dev/icons?i=vscode,github,git,eclipse,idea,postman" /><br>
+        <img src="https://skillicons.dev/icons?i=vscode,github,git,eclipse,idea,postman,intellij" /><br>
 </div>
 
 <h2>Stats and Activity</h2>
